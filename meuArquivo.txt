@@ -1,0 +1,1 @@
+Esse arquivo foi criado no VS Code para ser usado no Git
